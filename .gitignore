@@ -1,0 +1,5 @@
+# Ignoring sensitive terraform files, state and variables
+github/.terraform/
+github/.terraform.lock.hcl
+github/terraform.tfstate
+github/variables.tf
